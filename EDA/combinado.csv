@@ -1,0 +1,1226 @@
+ID1,Nome1,Smile1,ID2,Nome2,Smile2,pixel,resultado
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,2,Limonene,CC(=C)C1CCC(=CC1)C,12.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,3,TESCl,CC[Si](Cl)(CC)CC,14.0,1.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,17.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,6,Salicylaldehyde,OC1=CC=CC=C1C=O,13.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,381.0,1.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,49.0,1.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,6.0,1.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,7.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,82.0,1.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,12,2-Bromopropene,CC(Br)=C,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,13,Methyl acrylate,COC(=O)C=C,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,14,m-Cresol,CC1=CC(=CC=C1)O,12.0,1.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,17.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,20,Iodo-benzene,IC1=CC=CC=C1,12.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,123.0,3.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,27.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,152.0,1.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,371.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,25,5-Hexyn-1-ol,OCCCCC#C,93.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,27,Dibromomethane,BrCBr,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,16.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,31,Ethanolamine,NCCO,410.0,1.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,136.0,3.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,69.0,1.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,34,"2-Butene-1,4-diol",OC\C=C\CO,9.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,15.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,36,Pyridine,c1ccncc1,88.0,3.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,6.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,38,Diisopropylamine,CC(C)NC(C)C,171.0,1.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,329.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,7.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,386.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,400.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,40.0,1.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,11.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,70.0,1.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,12.0,2.0
+1,Diazonium salt,COC1=CC=C(C=C1)[N+]#N.F[B-](F)(F)F,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,3,TESCl,CC[Si](Cl)(CC)CC,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,6,Salicylaldehyde,OC1=CC=CC=C1C=O,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,30.0,2.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,6.0,2.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,12,2-Bromopropene,CC(Br)=C,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,13,Methyl acrylate,COC(=O)C=C,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,14,m-Cresol,CC1=CC(=CC=C1)O,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,8.0,2.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,27,Dibromomethane,BrCBr,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,31,Ethanolamine,NCCO,29.0,2.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,8.0,2.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,36,Pyridine,c1ccncc1,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,6.0,2.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,18.0,2.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,7.0,2.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+2,Limonene,CC(=C)C1CCC(=CC1)C,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,10.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,6,Salicylaldehyde,OC1=CC=CC=C1C=O,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,11.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,6.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,17.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,12,2-Bromopropene,CC(Br)=C,14.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,13,Methyl acrylate,COC(=O)C=C,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,14,m-Cresol,CC1=CC(=CC=C1)O,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,20,Iodo-benzene,IC1=CC=CC=C1,6.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,12.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,15.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,27,Dibromomethane,BrCBr,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,28,NBS,BrN1C(=O)CCC1=O,67.0,1.0
+3,TESCl,CC[Si](Cl)(CC)CC,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,6.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,31,Ethanolamine,NCCO,29.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,15.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,34,"2-Butene-1,4-diol",OC\C=C\CO,7.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,36,Pyridine,c1ccncc1,11.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,8.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,38,Diisopropylamine,CC(C)NC(C)C,103.0,3.0
+3,TESCl,CC[Si](Cl)(CC)CC,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,119.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,9.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,7.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,11.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+3,TESCl,CC[Si](Cl)(CC)CC,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,16.0,2.0
+3,TESCl,CC[Si](Cl)(CC)CC,50,Phenylacetylene,C#CC1=CC=CC=C1,6.0,2.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,41.0,3.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,6,Salicylaldehyde,OC1=CC=CC=C1C=O,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,366.0,3.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,23.0,3.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,19.0,1.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,65.0,1.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,12,2-Bromopropene,CC(Br)=C,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,13,Methyl acrylate,COC(=O)C=C,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,14,m-Cresol,CC1=CC(=CC=C1)O,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,18.0,1.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,20,Iodo-benzene,IC1=CC=CC=C1,10.0,2.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,27,Dibromomethane,BrCBr,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,28,NBS,BrN1C(=O)CCC1=O,29.0,3.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,8.0,2.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,31,Ethanolamine,NCCO,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,26.0,3.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,36,Pyridine,c1ccncc1,12.0,2.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,12.0,2.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,12.0,2.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,93.0,1.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,69.0,3.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,10.0,2.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,10.0,2.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,67.0,1.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,22.0,2.0
+4,Umemoto's reagent,[O-][S](=O)(=O)C(F)(F)F.FC(F)(F)[S+]1C2=C(C=CC=C2)C3=CC=CC=C13,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,6,Salicylaldehyde,OC1=CC=CC=C1C=O,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,14.0,2.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,12,2-Bromopropene,CC(Br)=C,35.0,2.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,13,Methyl acrylate,COC(=O)C=C,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,14,m-Cresol,CC1=CC(=CC=C1)O,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,8.0,1.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,177.0,1.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,206.0,1.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,6.0,2.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,27,Dibromomethane,BrCBr,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,28,NBS,BrN1C(=O)CCC1=O,6.0,1.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,6.0,2.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,31,Ethanolamine,NCCO,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,10.0,2.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,36,Pyridine,c1ccncc1,7.0,2.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,49.0,2.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,44,"1,4-Diazabicyclo[2.2.2]octane",C1CN2CCN1CC2,10.0,2.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,10.0,2.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,54.0,2.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+5,4-Nitroaniline,NC1=CC=C(C=C1)[N+]([O-])=O,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,12,2-Bromopropene,CC(Br)=C,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,13,Methyl acrylate,COC(=O)C=C,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,14,m-Cresol,CC1=CC(=CC=C1)O,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,252.0,2.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,22.0,1.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,16.0,2.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,27,Dibromomethane,BrCBr,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,31,Ethanolamine,NCCO,110.0,1.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,6.0,2.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,36,Pyridine,c1ccncc1,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,38,Diisopropylamine,CC(C)NC(C)C,129.0,3.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,39,Trimethyl phosphate,CO[P](=O)(OC)OC,8.0,2.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,30.0,2.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,6.0,2.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+6,Salicylaldehyde,OC1=CC=CC=C1C=O,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,14.0,2.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,12,2-Bromopropene,CC(Br)=C,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,13,Methyl acrylate,COC(=O)C=C,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,14,m-Cresol,CC1=CC(=CC=C1)O,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,57.0,3.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,14.0,2.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,375.0,1.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,20.0,3.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,373.0,1.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,79.0,2.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,27,Dibromomethane,BrCBr,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,28,NBS,BrN1C(=O)CCC1=O,283.0,1.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,31,Ethanolamine,NCCO,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,36,Pyridine,c1ccncc1,19.0,2.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,363.0,2.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,6.0,1.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,187.0,3.0
+7,"N,N-Dimethylaniline",CN(C)C1=CC=CC=C1,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,12,2-Bromopropene,CC(Br)=C,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,13,Methyl acrylate,COC(=O)C=C,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,14,m-Cresol,CC1=CC(=CC=C1)O,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,27,Dibromomethane,BrCBr,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,31,Ethanolamine,NCCO,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,36,Pyridine,c1ccncc1,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+8,Diethyl cyanomethylphosphonate,CCO[P](=O)(CC#N)OCC,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,12,2-Bromopropene,CC(Br)=C,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,13,Methyl acrylate,COC(=O)C=C,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,14,m-Cresol,CC1=CC(=CC=C1)O,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,233.0,1.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,27,Dibromomethane,BrCBr,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,31,Ethanolamine,NCCO,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,36,Pyridine,c1ccncc1,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,7.0,2.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+9,p-tolyl isocyanate,CC1=CC=C(C=C1)N=C=O,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,7.0,2.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,12,2-Bromopropene,CC(Br)=C,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,13,Methyl acrylate,COC(=O)C=C,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,14,m-Cresol,CC1=CC(=CC=C1)O,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,10.0,1.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,27,Dibromomethane,BrCBr,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,31,Ethanolamine,NCCO,7.0,2.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,36,Pyridine,c1ccncc1,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,38,Diisopropylamine,CC(C)NC(C)C,25.0,3.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,6.0,1.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,9.0,1.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+10,Cinnamaldehyde,O=C\C=C\C1=CC=CC=C1,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,12,2-Bromopropene,CC(Br)=C,33.0,3.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,13,Methyl acrylate,COC(=O)C=C,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,14,m-Cresol,CC1=CC(=CC=C1)O,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,30.0,1.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,6.0,2.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,19.0,1.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,261.0,1.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,26.0,1.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,27,Dibromomethane,BrCBr,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,28,NBS,BrN1C(=O)CCC1=O,67.0,1.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,31,Ethanolamine,NCCO,18.0,2.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,9.0,2.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,26.0,2.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,34,"2-Butene-1,4-diol",OC\C=C\CO,9.0,2.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,11.0,2.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,36,Pyridine,c1ccncc1,20.0,2.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,126.0,3.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,38,Diisopropylamine,CC(C)NC(C)C,32.0,3.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,20.0,3.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,14.0,1.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,8.0,2.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,9.0,2.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,56.0,1.0
+11,1-Naphthol,OC1=C2C=CC=CC2=CC=C1,50,Phenylacetylene,C#CC1=CC=CC=C1,7.0,2.0
+12,2-Bromopropene,CC(Br)=C,13,Methyl acrylate,COC(=O)C=C,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,14,m-Cresol,CC1=CC(=CC=C1)O,6.0,2.0
+12,2-Bromopropene,CC(Br)=C,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,14.0,2.0
+12,2-Bromopropene,CC(Br)=C,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,16.0,2.0
+12,2-Bromopropene,CC(Br)=C,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,27,Dibromomethane,BrCBr,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,31,Ethanolamine,NCCO,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,25.0,2.0
+12,2-Bromopropene,CC(Br)=C,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,10.0,2.0
+12,2-Bromopropene,CC(Br)=C,36,Pyridine,c1ccncc1,11.0,2.0
+12,2-Bromopropene,CC(Br)=C,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,11.0,2.0
+12,2-Bromopropene,CC(Br)=C,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,6.0,2.0
+12,2-Bromopropene,CC(Br)=C,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,7.0,2.0
+12,2-Bromopropene,CC(Br)=C,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,8.0,2.0
+12,2-Bromopropene,CC(Br)=C,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+12,2-Bromopropene,CC(Br)=C,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,16.0,2.0
+12,2-Bromopropene,CC(Br)=C,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,24.0,3.0
+12,2-Bromopropene,CC(Br)=C,50,Phenylacetylene,C#CC1=CC=CC=C1,7.0,2.0
+13,Methyl acrylate,COC(=O)C=C,14,m-Cresol,CC1=CC(=CC=C1)O,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,27,Dibromomethane,BrCBr,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,31,Ethanolamine,NCCO,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,36,Pyridine,c1ccncc1,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+13,Methyl acrylate,COC(=O)C=C,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,188.0,1.0
+14,m-Cresol,CC1=CC(=CC=C1)O,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,9.0,2.0
+14,m-Cresol,CC1=CC(=CC=C1)O,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,27,Dibromomethane,BrCBr,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,28,NBS,BrN1C(=O)CCC1=O,9.0,1.0
+14,m-Cresol,CC1=CC(=CC=C1)O,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,31,Ethanolamine,NCCO,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,36,Pyridine,c1ccncc1,7.0,2.0
+14,m-Cresol,CC1=CC(=CC=C1)O,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,37.0,2.0
+14,m-Cresol,CC1=CC(=CC=C1)O,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+14,m-Cresol,CC1=CC(=CC=C1)O,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,9.0,1.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,27,Dibromomethane,BrCBr,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,31,Ethanolamine,NCCO,32.0,1.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,14.0,2.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,36,Pyridine,c1ccncc1,30.0,2.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,38,Diisopropylamine,CC(C)NC(C)C,63.0,1.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,10.0,2.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,20.0,2.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,9.0,1.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,54.0,1.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+15,Pentafluorobenzaldehyde,Fc1c(F)c(F)c(C=O)c(F)c1F,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,25,5-Hexyn-1-ol,OCCCCC#C,6.0,2.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,27,Dibromomethane,BrCBr,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,31,Ethanolamine,NCCO,12.0,2.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,34,"2-Butene-1,4-diol",OC\C=C\CO,7.0,2.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,36,Pyridine,c1ccncc1,12.0,2.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,9.0,2.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,38,Diisopropylamine,CC(C)NC(C)C,18.0,2.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,20.0,2.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,11.0,2.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,110.0,2.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,11.0,1.0
+16,Dimethyl 3-methylglutaconate,COC(=O)C/C(C)=C/C(=O)OC,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,18,Ethyl bromoacetate,CCOC(=O)CBr,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,20,Iodo-benzene,IC1=CC=CC=C1,19.0,2.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,27,Dibromomethane,BrCBr,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,31,Ethanolamine,NCCO,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,27.0,1.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,36,Pyridine,c1ccncc1,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,7.0,2.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,19.0,1.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,192.0,1.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,11.0,2.0
+17,Select fluor,F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,27,Dibromomethane,BrCBr,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,31,Ethanolamine,NCCO,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,36,Pyridine,c1ccncc1,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+18,Ethyl bromoacetate,CCOC(=O)CBr,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,20,Iodo-benzene,IC1=CC=CC=C1,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,27.0,2.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,27,Dibromomethane,BrCBr,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,28,NBS,BrN1C(=O)CCC1=O,7.0,2.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,31,Ethanolamine,NCCO,7.0,1.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,36,Pyridine,c1ccncc1,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,38,Diisopropylamine,CC(C)NC(C)C,7.0,2.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,14.0,2.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+19,4-Pyridinecarboxaldehyde,O=CC1=CC=NC=C1,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,27,Dibromomethane,BrCBr,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,31,Ethanolamine,NCCO,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,36,Pyridine,c1ccncc1,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+20,Iodo-benzene,IC1=CC=CC=C1,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,6.0,1.0
+20,Iodo-benzene,IC1=CC=CC=C1,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,6.0,1.0
+20,Iodo-benzene,IC1=CC=CC=C1,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,19.0,2.0
+20,Iodo-benzene,IC1=CC=CC=C1,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,27,Dibromomethane,BrCBr,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,28,NBS,BrN1C(=O)CCC1=O,10.0,1.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,31,Ethanolamine,NCCO,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,34,"2-Butene-1,4-diol",OC\C=C\CO,9.0,2.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,36,Pyridine,c1ccncc1,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+21,Bis(trimethylsilyl)acetamide,C[Si](C)(C)C(C(N)=O)[Si](C)(C)C,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,173.0,1.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,27,Dibromomethane,BrCBr,6.0,2.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,28,NBS,BrN1C(=O)CCC1=O,16.0,2.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,185.0,2.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,31,Ethanolamine,NCCO,0.0,0.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,15.0,2.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,89.0,2.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,135.0,1.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,36,Pyridine,c1ccncc1,73.0,2.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,12.0,2.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,38,Diisopropylamine,CC(C)NC(C)C,49.0,2.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,8.0,2.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,16.0,2.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,15.0,2.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,139.0,1.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,27.0,2.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,190.0,1.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,19.0,2.0
+22,Iodobenzene diacetate,CC(=O)O[I](OC(C)=O)C1=CC=CC=C1,50,Phenylacetylene,C#CC1=CC=CC=C1,7.0,2.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,0.0,0.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,27,Dibromomethane,BrCBr,0.0,0.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,28,NBS,BrN1C(=O)CCC1=O,16.0,1.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,7.0,2.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,31,Ethanolamine,NCCO,18.0,2.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,8.0,2.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,15.0,2.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,34,"2-Butene-1,4-diol",OC\C=C\CO,6.0,2.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,36,Pyridine,c1ccncc1,7.0,1.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,28.0,3.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,38,Diisopropylamine,CC(C)NC(C)C,10.0,1.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,6.0,1.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,14.0,2.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,9.0,1.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,11.0,1.0
+23,"4,4,4-trifluoro-1-phenyl-1,3-butanedione",FC(F)(F)C(=O)CC(=O)c1ccccc1,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,25,5-Hexyn-1-ol,OCCCCC#C,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,27,Dibromomethane,BrCBr,6.0,2.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,28,NBS,BrN1C(=O)CCC1=O,172.0,2.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,31,Ethanolamine,NCCO,7.0,2.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,6.0,2.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,9.0,2.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,36,Pyridine,c1ccncc1,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+24,Hexamethyldisilazane,C[Si](C)(C)N[Si](C)(C)C,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,27,Dibromomethane,BrCBr,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,31,Ethanolamine,NCCO,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,36,Pyridine,c1ccncc1,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+25,5-Hexyn-1-ol,OCCCCC#C,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,27,Dibromomethane,BrCBr,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,31,Ethanolamine,NCCO,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,36,Pyridine,c1ccncc1,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+26,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+27,Dibromomethane,BrCBr,28,NBS,BrN1C(=O)CCC1=O,0.0,0.0
+27,Dibromomethane,BrCBr,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,0.0,0.0
+27,Dibromomethane,BrCBr,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+27,Dibromomethane,BrCBr,31,Ethanolamine,NCCO,0.0,0.0
+27,Dibromomethane,BrCBr,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+27,Dibromomethane,BrCBr,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+27,Dibromomethane,BrCBr,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+27,Dibromomethane,BrCBr,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+27,Dibromomethane,BrCBr,36,Pyridine,c1ccncc1,0.0,0.0
+27,Dibromomethane,BrCBr,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+27,Dibromomethane,BrCBr,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+27,Dibromomethane,BrCBr,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+27,Dibromomethane,BrCBr,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+27,Dibromomethane,BrCBr,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,12.0,1.0
+27,Dibromomethane,BrCBr,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+27,Dibromomethane,BrCBr,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+27,Dibromomethane,BrCBr,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+27,Dibromomethane,BrCBr,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,6.0,2.0
+27,Dibromomethane,BrCBr,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,6.0,2.0
+27,Dibromomethane,BrCBr,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,9.0,2.0
+27,Dibromomethane,BrCBr,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,40.0,3.0
+27,Dibromomethane,BrCBr,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,10.0,2.0
+27,Dibromomethane,BrCBr,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+28,NBS,BrN1C(=O)CCC1=O,29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,21.0,1.0
+28,NBS,BrN1C(=O)CCC1=O,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+28,NBS,BrN1C(=O)CCC1=O,31,Ethanolamine,NCCO,83.0,1.0
+28,NBS,BrN1C(=O)CCC1=O,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+28,NBS,BrN1C(=O)CCC1=O,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+28,NBS,BrN1C(=O)CCC1=O,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+28,NBS,BrN1C(=O)CCC1=O,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,35.0,1.0
+28,NBS,BrN1C(=O)CCC1=O,36,Pyridine,c1ccncc1,11.0,1.0
+28,NBS,BrN1C(=O)CCC1=O,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,7.0,1.0
+28,NBS,BrN1C(=O)CCC1=O,38,Diisopropylamine,CC(C)NC(C)C,119.0,2.0
+28,NBS,BrN1C(=O)CCC1=O,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+28,NBS,BrN1C(=O)CCC1=O,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,10.0,1.0
+28,NBS,BrN1C(=O)CCC1=O,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,200.0,1.0
+28,NBS,BrN1C(=O)CCC1=O,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+28,NBS,BrN1C(=O)CCC1=O,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+28,NBS,BrN1C(=O)CCC1=O,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,11.0,2.0
+28,NBS,BrN1C(=O)CCC1=O,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,184.0,1.0
+28,NBS,BrN1C(=O)CCC1=O,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,104.0,1.0
+28,NBS,BrN1C(=O)CCC1=O,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,10.0,2.0
+28,NBS,BrN1C(=O)CCC1=O,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,133.0,1.0
+28,NBS,BrN1C(=O)CCC1=O,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,10.0,1.0
+28,NBS,BrN1C(=O)CCC1=O,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,31,Ethanolamine,NCCO,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,36,Pyridine,c1ccncc1,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,23.0,3.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+29,4-Hydroxybenzoic acid,OC(=O)C1=CC=C(O)C=C1,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,31,Ethanolamine,NCCO,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,36,Pyridine,c1ccncc1,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,7.0,2.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+30,Diisopropyl L-tartrate,CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+31,Ethanolamine,NCCO,32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,0.0,0.0
+31,Ethanolamine,NCCO,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,24.0,1.0
+31,Ethanolamine,NCCO,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+31,Ethanolamine,NCCO,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,9.0,1.0
+31,Ethanolamine,NCCO,36,Pyridine,c1ccncc1,0.0,0.0
+31,Ethanolamine,NCCO,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+31,Ethanolamine,NCCO,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+31,Ethanolamine,NCCO,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+31,Ethanolamine,NCCO,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+31,Ethanolamine,NCCO,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+31,Ethanolamine,NCCO,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+31,Ethanolamine,NCCO,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+31,Ethanolamine,NCCO,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+31,Ethanolamine,NCCO,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+31,Ethanolamine,NCCO,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+31,Ethanolamine,NCCO,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+31,Ethanolamine,NCCO,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,135.0,3.0
+31,Ethanolamine,NCCO,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+31,Ethanolamine,NCCO,50,Phenylacetylene,C#CC1=CC=CC=C1,8.0,2.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,34,"2-Butene-1,4-diol",OC\C=C\CO,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,36,Pyridine,c1ccncc1,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,16.0,2.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+32,"3,5-Dimethyl pyrazole",CC1=CC(=N[NH]1)C,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,34,"2-Butene-1,4-diol",OC\C=C\CO,8.0,1.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,36,Pyridine,c1ccncc1,0.0,0.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,38,Diisopropylamine,CC(C)NC(C)C,11.0,2.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,10.0,2.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,15.0,2.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,9.0,2.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,18.0,2.0
+33,"Trifluoro-2,4-pentanedione",CC(=O)CC(=O)C(F)(F)F,50,Phenylacetylene,C#CC1=CC=CC=C1,7.0,2.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,36,Pyridine,c1ccncc1,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+34,"2-Butene-1,4-diol",OC\C=C\CO,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,36,Pyridine,c1ccncc1,0.0,0.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,8.0,2.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,6.0,2.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,9.0,2.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+35,"N,N-Bis-(Salicylidine)-Ethylenediamine",OC1=C(C=CC=C1)C=NCCN=CC2=C(O)C=CC=C2,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+36,Pyridine,c1ccncc1,37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,0.0,0.0
+36,Pyridine,c1ccncc1,38,Diisopropylamine,CC(C)NC(C)C,0.0,0.0
+36,Pyridine,c1ccncc1,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+36,Pyridine,c1ccncc1,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+36,Pyridine,c1ccncc1,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+36,Pyridine,c1ccncc1,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+36,Pyridine,c1ccncc1,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+36,Pyridine,c1ccncc1,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,9.0,2.0
+36,Pyridine,c1ccncc1,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,9.0,2.0
+36,Pyridine,c1ccncc1,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+36,Pyridine,c1ccncc1,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,13.0,2.0
+36,Pyridine,c1ccncc1,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,22.0,2.0
+36,Pyridine,c1ccncc1,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,33.0,2.0
+36,Pyridine,c1ccncc1,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,38,Diisopropylamine,CC(C)NC(C)C,22.0,3.0
+37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,38.0,3.0
+37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,8.0,2.0
+37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,263.0,2.0
+37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,6.0,2.0
+37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,77.0,2.0
+37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,6.0,2.0
+37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,91.0,3.0
+37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+37,4-nitrophthalonitrile,[O-][N+](=O)C1=CC=C(C#N)C(=C1)C#N,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+38,Diisopropylamine,CC(C)NC(C)C,39,Trimethyl phosphate,CO[P](=O)(OC)OC,0.0,0.0
+38,Diisopropylamine,CC(C)NC(C)C,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+38,Diisopropylamine,CC(C)NC(C)C,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+38,Diisopropylamine,CC(C)NC(C)C,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+38,Diisopropylamine,CC(C)NC(C)C,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+38,Diisopropylamine,CC(C)NC(C)C,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+38,Diisopropylamine,CC(C)NC(C)C,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+38,Diisopropylamine,CC(C)NC(C)C,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+38,Diisopropylamine,CC(C)NC(C)C,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+38,Diisopropylamine,CC(C)NC(C)C,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,139.0,2.0
+38,Diisopropylamine,CC(C)NC(C)C,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,17.0,2.0
+38,Diisopropylamine,CC(C)NC(C)C,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+39,Trimethyl phosphate,CO[P](=O)(OC)OC,40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,0.0,0.0
+39,Trimethyl phosphate,CO[P](=O)(OC)OC,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,0.0,0.0
+39,Trimethyl phosphate,CO[P](=O)(OC)OC,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+39,Trimethyl phosphate,CO[P](=O)(OC)OC,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+39,Trimethyl phosphate,CO[P](=O)(OC)OC,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+39,Trimethyl phosphate,CO[P](=O)(OC)OC,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+39,Trimethyl phosphate,CO[P](=O)(OC)OC,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+39,Trimethyl phosphate,CO[P](=O)(OC)OC,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+39,Trimethyl phosphate,CO[P](=O)(OC)OC,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,47.0,3.0
+39,Trimethyl phosphate,CO[P](=O)(OC)OC,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+39,Trimethyl phosphate,CO[P](=O)(OC)OC,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,9.0,2.0
+40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+40,L-Glutamic Acid,NC(CCC(O)=O)C(O)=O,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,0.0,0.0
+41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+41,Triphenylphosphine,C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3,50,Phenylacetylene,C#CC1=CC=CC=C1,7.0,2.0
+42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,0.0,0.0
+42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+42,Perchloroethylene,ClC(Cl)=C(Cl)Cl,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,0.0,0.0
+43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+43,Carvone,CC(=C)C1CC=C(C)C(=O)C1,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,0.0,0.0
+44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,19.0,1.0
+44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,125.0,2.0
+44,"1,4-Diazabicyclo [2.2.2] octane",C1CN2CCN1CC2,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,0.0,0.0
+45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,60.0,2.0
+45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+45,1-(Trimethylsilyl)imidazole,C[Si](C)(C)[N]1C=CN=C1,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,0.0,0.0
+46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,12.0,2.0
+46,Carvacrol,CC(C)C1=CC(=C(C)C=C1)O,50,Phenylacetylene,C#CC1=CC=CC=C1,10.0,2.0
+47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,0.0,0.0
+47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+47,L-Phenylalanine,NC(CC1=CC=CC=C1)C(O)=O,50,Phenylacetylene,C#CC1=CC=CC=C1,8.0,2.0
+48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,0.0,0.0
+48,"1,5-dihydroxynaphthalene",OC1=CC=CC2=C(O)C=CC=C12,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
+49,4-nitrobenzaldehyde,[O-][N+](=O)C1=CC=C(C=O)C=C1,50,Phenylacetylene,C#CC1=CC=CC=C1,0.0,0.0
