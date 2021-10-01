@@ -140,7 +140,7 @@ def Microplate(am, title):
             if items in centros:
                 padrao[indices].remove(items)
 
-    #Contando o número de pixel no padrão
+    #Counting grayscale in the standard sample
     met_raio = np.mean(raios)/2
 
     for i in range(1, am+1):
@@ -152,7 +152,7 @@ def Microplate(am, title):
         pxpadrao_r[i] = int(np.mean(janela_r))
 
 
-    #Contando o px nas amostras:
+    #Counting grayscale in the mixture:
     for w in range(1, am + 1):
         cv.putText(image2, f'ID-{id[w]}', (int(padrao[w][0][0] - 10), int(padrao[w][0][1] - 2)), cv.FONT_HERSHEY_SIMPLEX, .5,(0, 0, 0), 2)
         for centro1 in S[w]:
@@ -227,7 +227,7 @@ def Microplate(am, title):
 
     resp_2 = input(str('Save the processed image? [Y]/[N]: ')).upper()
     if resp_2 == 'Y':
-        pasta_image = '/Micro/Placa_Imagem/'
+        pasta_image = '/Micro/Plate_Image/'
         cv.imwrite(raiz_path + pasta_image + title, image2)
 
     resp = input(str('Save the data? [Y]/[N]: ')).upper()

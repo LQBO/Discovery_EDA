@@ -284,7 +284,7 @@ def regist_tlc(num_spot):
             dados = pd.read_csv('tlcgram.csv')
             df = pd.DataFrame(dados)
             df = df.append(ID_spot_df, ignore_index=True)
-            pasta_image = '/TLC/TLC_Imagem/'
+            pasta_image = '/TLC/TLC_Image/'
             cv.imwrite(pasta_raiz + pasta_image + title, image2)
             df.to_csv('tlcgram.csv', index=False)
             print('\033[1;036mSAVED!!!\033[m')
@@ -293,7 +293,7 @@ def regist_tlc(num_spot):
             dados = pd.read_csv('tlc_rx.csv')
             df = pd.DataFrame(dados)
             df = df.append(ID_spot_df, ignore_index=True)
-            pasta_image = '/TLC_rx/TLC_Imagem/'
+            pasta_image = '/TLC_rx/TLC_Image/'
             cv.imwrite(pasta_raiz + pasta_image + title, image2)
             df.to_csv('tlc_rx.csv', index=False)
             print('\033[1;015mSuccessfully saved!!!\033[m')
